@@ -1,15 +1,20 @@
 # Tech Quiz Test Suite
-This project implements component and end-to-end testing for a Tech Quiz application using Cypress. The app was built using the MERN stack with a React front end, a MongoDB database, and a Node.js/Express.js API. It allows users to take a quiz of ten random questions and view their final score.
+This project implements a full testing suite for a MERN-based Tech Quiz application using Cypress. The goal of this challenge was to demonstrate the ability to write both component and end-to-end tests, ensuring the application behaves as expected under real-world conditions.
 
-## Acceptance Criteria
-- When I click the start button, the quiz begins and I see a question.
-- When I answer a question, the next question is shown.
-- When all questions are answered, the quiz ends.
-- When the quiz ends, I can see my score.
-- I can start a new quiz once the previous one ends.
+## Description
+
+This Tech Quiz application allows users to take a quiz of 10 random questions, answer them one by one, and see their final score. The app is built using the MERN stack:
+- **MongoDB** for storing questions
+- **Express.js** and **Node.js** for the API
+- **React** for the front end
 
 ##  Walkthrough Video
 [Click here to see the video](https://drive.google.com/file/d/1BA8J0uQNWExpYJBCwmQXbizOym8mR5Kn/view)
+
+The video shows:
+- The application running locally
+- Cypress component and E2E tests passing in the terminal
+- How to invoke the tests from the command line
 
 ## Installation
 
