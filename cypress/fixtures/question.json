@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Select the correct answer",
+    "answers": [
+      {
+        "text": "Answer One",
+        "isCorrect": true
+      },
+      {
+        "text": "Answer Two",
+        "isCorrect": false
+      },
+      {
+        "text": "Answer Three",
+        "isCorrect": false
+      },
+      {
+        "text": "Answer Four",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Select another answer",
+    "answers": [
+      {
+        "text": "Answer One",
+        "isCorrect": false
+      },
+      {
+        "text": "Answer Two",
+        "isCorrect": true
+      },
+      {
+        "text": "Answer Three",
+        "isCorrect": false
+      },
+      {
+        "text": "Answer Four",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Select a third answer",
+    "answers": [
+      {
+        "text": "Answer One",
+        "isCorrect": false
+      },
+      {
+        "text": "Answer Two",
+        "isCorrect": false
+      },
+      {
+        "text": "Answer Three",
+        "isCorrect": true
+      },
+      {
+        "text": "Answer Four",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Select a fourth answer",
+    "answers": [
+      {
+        "text": "Answer One",
+        "isCorrect": false
+      },
+      {
+        "text": "Answer Two",
+        "isCorrect": false
+      },
+      {
+        "text": "Answer Three",
+        "isCorrect": false
+      },
+      {
+        "text": "Answer Four",
+        "isCorrect": true
+      }
+    ]
+  }
+]
